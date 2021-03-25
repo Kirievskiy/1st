@@ -1,0 +1,85 @@
+!doctype html>
+
+<html>
+<head>
+<meta charset="UTF-8"/>
+<meta name="wieport" content="width-device-width, initial-scale=1.0"/>
+<title>Eiffel Tower</title>
+<link href="ef.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="hero-wrapper">
+     <div class="wrapper">
+<header>
+<a href="" class="logo">Eiffel Tower</a>
+<nav>
+<ul>
+<li><a href="">home</a></li>
+<li><a href="">about</a></li>
+<li><a href="">contact</a></li>
+</ul>
+</nav>
+</header>
+<div class="hero-content">
+<h1>Tour Eiffel<h1>
+<p class="subtitle"> Champ de Mars in Paris, France.</p>
+</div>
+</div>
+    </div>
+<div class="second-wrapper">
+ <div class="wrapper">
+ <ul class="status">
+ <li>
+ <strong>1063 feet</strong>
+ <span>Current height</span>
+ </li>
+  <li>
+ <strong>2,500,000</strong>
+ <span>Rivets used</span>
+ </li>
+  <li>
+ <strong>336</strong>
+ <span>Projectors</span>
+ </li>
+  <li>
+ <strong>10,100 tons</strong>
+ <span>Total weight</span>
+ </li>
+  <li>
+ <strong>18,038</strong>
+ <span>Iron parts</span>
+ </li>
+ </ul>
+ </div>
+ <div class="extented-wrapper carousal-contanier">
+    <img src="a/arrow.png" id="left arrow" class="arrows-right" alt="Move testimonials to the left">
+ <ul class="carousel">
+  <li class="lil">
+<blockquote>Every time I look at the Eiffel Tower, it completely blows my mind.<blockquote>
+<cite>Brian Fallon<cite>
+ </li>
+ <li class="lil">
+<blockquote>The Arc de Triomphe, the Eiffel Tower. They're monumental. They're straight out of Page 52 in your school history book.<blockquote>
+<cite>Billy Crystal<cite>
+ </li>
+<li class="lil">
+<blockquote>Well, I think the curves of the four pillars of the monument, as the calculations have provided them,… give it a great sense of force and beauty.<blockquote>
+<cite>Gustave Eiffel<cite>
+ </li>
+</ul>
+<img src="a/arrow.png" id="right arrow" class="arrows" alt="Move testimonials to the right">
+ </div>
+</div>
+
+ <div class="wrapper moved-up v-padding">
+ <h2>Links</h2>
+ <ul class="copmpanies">
+<li class="r"><a href="https://www.youtube.com/watch?v=aZ-31-p3saU"><img src="a/yt.png" alt="yt" class="yt" width="50" height="50"></a>
+ <li class="r"><img src="a/v.png" alt="v" class="v" width="50" height="50">
+  <li class="r"><img src="a/t.png" alt="v" class="v" width="50" height="50">
+ </li>
+</div>
+
+
+</body>
+</html>
